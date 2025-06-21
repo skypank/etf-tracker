@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/etf-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/etf-tracker/static/js/main.06761a5e.js",
+    "static/js/453.88ee9fd9.chunk.js": "/etf-tracker/static/js/453.88ee9fd9.chunk.js",
+    "index.html": "/etf-tracker/index.html",
+    "main.e6c13ad2.css.map": "/etf-tracker/static/css/main.e6c13ad2.css.map",
+    "main.06761a5e.js.map": "/etf-tracker/static/js/main.06761a5e.js.map",
+    "453.88ee9fd9.chunk.js.map": "/etf-tracker/static/js/453.88ee9fd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.06761a5e.js"
+  ]
+}
